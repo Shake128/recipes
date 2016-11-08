@@ -1,0 +1,6 @@
+Ingredients:
+ -  sample ingredients
+
+Directions:
+ 1. Sample instruction 1 
+ 2. Sample instruction 2
